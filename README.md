@@ -24,11 +24,11 @@ AWS
 
 IAM     Identity and Access Management      (Authentication and Authroization of our AWS account)
 EC2     Elastic Cloud Compute               (Virtual Server)
-S3      Simple Storage Service              Storage (Software or data)
+S3      Simple Storage Service              General Purpose Storage (Software or data)
 ECS     Elastic Container Service           Containerization
 RDS     Relational Database Service         MySQL,...etc
 SQS     Simple Queue Service                Messaging Service (similar JMS/RabbitMQ..etc)
 SNS     Simple Notification Service         Messaging Service (similar JMS/RabbitMQ..etc)
-EBS     Elastic Bean Stalk                  Hosting Serverless services
-        Elastic Block Service
+EBS     Elastic Block Service               Storage for hosted instances
+        Elastic Bean Stalk
 
