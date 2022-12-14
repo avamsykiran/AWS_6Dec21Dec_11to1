@@ -4,9 +4,9 @@ AWS Introduction
 IAM Concepts
 EC2 Concepts
 AWS S3
-AWS Containers ( ECS, Fargate / Kubernetes , etc. )
 RDS / PostGres / DynamoDB 
-Other Services ( SQS, SNS, Elastic Bean stalk, Lambda ) 
+Other Services ( SQS, SNS, Elastic Beanstalk, Lambda ) 
+AWS Containers ( ECS, Fargate / Kubernetes , etc. )
 Monitoring ( Cloud Watch Logs, Cloud Trials, CloudWatch Vs CloudTrail )
 Cloud Formation Template
 
@@ -15,7 +15,7 @@ AWS
     2. Cloud Computing (AWS S3 service back in 2006 early)
         PaaS        (Platform = OS+RE) - EC2
         IaaS        S3,GoogleDrive ..etc
-        SaaS        RDS / PostGres / DynamoDB , Other Services ( SQS, SNS, Elastic Bean stalk, Lambda ) 
+        SaaS        RDS / PostGres / DynamoDB , Other Services ( SQS, SNS, Elastic Beanstalk, Lambda ) 
 
     Challenges
         a. Reliability and Control          Hybrid Cloud Deploymnet
@@ -30,5 +30,5 @@ RDS     Relational Database Service         MySQL,...etc
 SQS     Simple Queue Service                Messaging Service (similar JMS/RabbitMQ..etc)
 SNS     Simple Notification Service         Messaging Service (similar JMS/RabbitMQ..etc)
 EBS     Elastic Block Service               Storage for hosted instances
-        Elastic Bean Stalk
+        Elastic Beanstalk
 
